@@ -16,7 +16,7 @@
 
 
 ### Repo owner: ###
-*Mikhail Bedarev  
+*Basyrov Damir  
 * Contacts:    
    - https://t.me/DenverRF 
    - basirovdamir@yandex.ru
