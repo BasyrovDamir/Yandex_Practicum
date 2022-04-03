@@ -18,7 +18,7 @@ ESRB оценивает игровой контент и присваивает 
 
 
 ### Repo owner: ###
-*Mikhail Bedarev  
+*Basyrov Damir 
 * Contacts:    
    - https://t.me/DenverRF
    - basirovdamir@yandex.ru
